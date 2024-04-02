@@ -1,6 +1,6 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="" />
-&nbsp;&nbsp;&nbsp;
+<!---<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="" />
+&nbsp;&nbsp;&nbsp; --->
 
 
 <p align="center">I'm Robert <br><br> Estudante de Engenharia de Software em busca de opotunidades na área do desenvolvimento</p>&nbsp;
@@ -10,8 +10,7 @@
 
 
 
-
-#### Secondary Stack:
+ 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 &nbsp;
 &nbsp;
